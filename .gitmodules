@@ -1,0 +1,6 @@
+[submodule "sender-domain"]
+	path = sender-domain
+	url = ./sender-domain
+[submodule "receiver-domain"]
+	path = receiver-domain
+	url = ./receiver-domain
